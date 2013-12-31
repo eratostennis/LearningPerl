@@ -1,8 +1,0 @@
-use strict;
-use warnings;
-
-my @numbers;
-for(my $i=1..1000){
-    push @numbers $i;
-}
-print total(@numbers);

@@ -1,6 +1,0 @@
-use strict;
-use warnings;
-
-my $x1 = <STDIN>;
-my $x2 = <STDIN>;
-print "$x1*$x2\n";

@@ -1,8 +1,0 @@
-use strict;
-use warnings;
-
-my $strings;
-my $number;
-for(1..$number){
-    print "$strings";
-}
